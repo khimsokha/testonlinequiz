@@ -18,7 +18,7 @@ body{
     background: #007bff;
 }
 .me{
-    width: 800px;
+    width: 900px;
     height: 100px;
     /* background: green; */
     margin: 100px auto;
@@ -49,6 +49,9 @@ body{
 }
 .me .second a{
     color: #007f68;
+}
+.me .third a{
+    color: #ff00a2;
 }
 
 .start_btn,
